@@ -1,4 +1,4 @@
-###Comandos básicos para el bash de GIT
+<h1> Comandos básicos para el shell de GIT</h1>
 
 ## Configuración Básica
 
